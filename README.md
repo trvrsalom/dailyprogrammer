@@ -10,7 +10,7 @@ From the [/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) wiki:
 *I may also include some prompts/challenges from other places!*
 
 ####Why?
-I hope this exercise will allow me to become a better program and learn a lot through daily practice
+I hope this exercise will allow me to become a better program and learn a lot through daily practice. It will allow me to practice my skills in various languages, and challenge me to learn something new everyday.
 
 [I will record my progress here.](log.md)
 
