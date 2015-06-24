@@ -4,3 +4,4 @@
 * 6/20/15 - [Todo list](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:20:15)
 * 6/21/15 - [Todo list - pt2](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:21:15)
 * 6/22/15 - [Cave of prosperity](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:22:15)
+* 6/23/15 - [Mangling sentences](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:23:15)
