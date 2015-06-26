@@ -6,3 +6,4 @@
 * 6/22/15 - [Cave of Prosperity](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:22:15)
 * 6/23/15 - [Mangling Sentences](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:23:15)
 * 6/24/15 - [Pile of Paper](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:24:15)
+* 6/25/15 - [Animals](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:25:15)
