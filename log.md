@@ -9,3 +9,6 @@
 * 6/25/15 - [Animals](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:25:15)
 * 6/26/15 - [Standard Deviation](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:26:15)
 * 6/27/15 - [Space Code](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:27:15)
+
+###Javascript week:
+* 6/28/15 - [Metaprogramming](https://github.com/trvrsalom/dailyprogrammer/tree/master/6:28:15)
