@@ -13,3 +13,4 @@
 ###Javascript week:
 * 6/28/15 - [Metaprogramming](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6:28:15)
 * 6/29/15 - [Wordsnake](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6:29:15)
+* 6/30/15 - [Validate ISBN](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6:30:15)
