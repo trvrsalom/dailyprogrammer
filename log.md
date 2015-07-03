@@ -15,3 +15,4 @@
 * 6/29/15 - [Wordsnake](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6:29:15)
 * 6/30/15 - [Validate ISBN](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6:30:15)
 * 7/1/15 - [Palindromic](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:1:15)
+* 7/2/15 - [Namegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:2:15)
