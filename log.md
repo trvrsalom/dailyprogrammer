@@ -17,6 +17,7 @@
 * 7/1/15 - [Palindromic](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:1:15)
 * 7/2/15 - [Namegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:2:15)
 * 7/3/15 - [Dicegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:3:15)
-* 7/4/15 - [Dicegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:4:15)
+* 7/4/15 - [BoxChart](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7:4:15)
 
-###What Next?
+###C week:
+* 7/5/15 - [Sportspoints](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7:5:15)
