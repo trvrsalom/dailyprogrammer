@@ -4,6 +4,7 @@
 /**
  * balance.c
  * Created for: https://www.reddit.com/r/dailyprogrammer/comments/3c9a9h/20150706_challenge_222_easy_balancing_words/
+ * Author: Trevor Salom
 */
 
 void balance(char inp[100]){
