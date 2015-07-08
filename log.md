@@ -22,5 +22,4 @@
 ###C week:
 * 7/5/15 - [Sportspoints](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7:5:15)
 * 7/6/15 - [Balance](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7:6:15)
-* 7/7/15 - [Balance](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7:7:15)
-
+* 7/7/15 - [IntHarmony](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7:7:15)
