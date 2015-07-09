@@ -23,3 +23,4 @@
 * 7/5/15 - [Sportspoints](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_5_15)
 * 7/6/15 - [Balance](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_6_15)
 * 7/7/15 - [IntHarmony](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_7_15)
+* 7/8/15 - [Bioinformatics](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_8_15)
