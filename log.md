@@ -27,3 +27,6 @@
 * 7/9/15 - [Simple Square](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_9_15)
 * 7/10/15 - [Tree](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_10_15)
 * 7/11/15 - [Torn Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_11_15)
+
+###Swift week:
+* 7/12/15 - [1337 Speak](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_12_15)
