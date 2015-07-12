@@ -26,3 +26,4 @@
 * 7/8/15 - [Bioinformatics](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_8_15)
 * 7/9/15 - [Simple Square](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_9_15)
 * 7/10/15 - [Tree](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_10_15)
+* 7/11/15 - [Torn Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_11_15)
