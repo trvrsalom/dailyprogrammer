@@ -29,5 +29,5 @@
 * 7/11/15 - [Torn Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_11_15)
 
 ###Swift week:
-* 7/12/15 - [1337 Speak](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_12_15)
-* 7/13/15 - [Garland Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_13_15)
+* 7/12/15 - [1337 Speak](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_12_15)
+* 7/13/15 - [Garland Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_13_15)
