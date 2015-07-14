@@ -30,3 +30,4 @@
 
 ###Swift week:
 * 7/12/15 - [1337 Speak](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_12_15)
+* 7/13/15 - [1337 Speak](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_13_15)
