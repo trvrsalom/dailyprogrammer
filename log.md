@@ -33,3 +33,4 @@
 * 7/13/15 - [Garland Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_13_15)
 * 7/14/15 - [Repulsion Force](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_14_15)
 * 7/15/15 - [Space Probe](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_15_15)
+* 7/16/15 - [Eel of Fortune](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_16_15)
