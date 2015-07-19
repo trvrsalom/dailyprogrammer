@@ -1,4 +1,11 @@
 import java.util.Scanner;
+
+/**
+ * LumberPiles.java
+ * Created for: https://www.reddit.com/r/dailyprogrammer/comments/3840rp/20150601_challenge_217_easy_lumberjack_pile/
+ * Author: Trevor Salom
+*/
+
 public class LumberPiles {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
