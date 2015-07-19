@@ -36,3 +36,6 @@
 * 7/16/15 - [Eel of Fortune](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_16_15)
 * 7/17/15 - [Eel of Fortune](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_17_15)
 * 7/18/15 - [Largest Word](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_18_15)
+
+###Java week:
+* 7/19/15 - [Lumber Jack Pile Problem](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_19_15)
