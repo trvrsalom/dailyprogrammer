@@ -40,3 +40,4 @@
 ###Java week:
 * 7/19/15 - [Lumber Jack Pile Problem](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_19_15)
 * 7/20/15 - [I am Bender](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_20_15)
+* 7/21/15 - [Shuffling](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_21_15)
