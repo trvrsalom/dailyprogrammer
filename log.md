@@ -41,3 +41,4 @@
 * 7/19/15 - [Lumber Jack Pile Problem](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_19_15)
 * 7/20/15 - [I am Bender](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_20_15)
 * 7/21/15 - [Shuffling](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_21_15)
+* 7/22/15 - [Conversion](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_22_15)
