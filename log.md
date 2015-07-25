@@ -44,3 +44,4 @@
 * 7/22/15 - [Conversion](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_22_15)
 * 7/23/15 - [Easter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_23_15)
 * 7/24/15 - [ThueMorse](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_24_15)
+* 7/25/15 - [Visualized Sorts](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_25_15)
