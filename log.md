@@ -43,3 +43,4 @@
 * 7/21/15 - [Shuffling](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_21_15)
 * 7/22/15 - [Conversion](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_22_15)
 * 7/23/15 - [Easter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_23_15)
+* 7/24/15 - [Easter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_24_15)
