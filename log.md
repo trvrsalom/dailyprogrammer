@@ -45,3 +45,6 @@
 * 7/23/15 - [Easter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_23_15)
 * 7/24/15 - [ThueMorse](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_24_15)
 * 7/25/15 - [Visualized Sorts](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_5/7_25_15)
+
+###C# Week:
+* 7/26/15 - [Monty Hall Simulation](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_26_15)
