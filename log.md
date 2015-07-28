@@ -48,4 +48,5 @@
 
 ###C# Week:
 * 7/26/15 - [Monty Hall Simulation](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_26_15)
-* 7/27/15 - [Monty Hall Simulation](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_27_15)
+* 7/27/15 - [Twitter Handles](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_27_15)
+* 7/28/15 - [Secret Message](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_28_15)
