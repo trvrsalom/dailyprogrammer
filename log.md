@@ -51,3 +51,4 @@
 * 7/27/15 - [Twitter Handles](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_27_15)
 * 7/28/15 - [Secret Message](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_28_15)
 * 7/29/15 - [Bogo Sort](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_29_15)
+* 7/30/15 - [Minesweeper](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_30_15)
