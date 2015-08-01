@@ -54,3 +54,6 @@
 * 7/30/15 - [Minesweeper](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_30_15)
 * 7/31/15 - [Recursive Song](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_31_15)
 * 8/01/15 - [Probability Graph](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/8_1_15)
+
+###Ruby Week:
+* 8/02/15 - [Probability Graph](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_2_15)
