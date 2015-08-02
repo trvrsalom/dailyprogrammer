@@ -14,17 +14,17 @@
 * 6/28/15 - [Metaprogramming](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6_28_15)
 * 6/29/15 - [Wordsnake](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6_29_15)
 * 6/30/15 - [Validate ISBN](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/6_30_15)
-* 7/1/15 - [Palindromic](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_1_15)
-* 7/2/15 - [Namegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_2_15)
-* 7/3/15 - [Dicegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_3_15)
-* 7/4/15 - [BoxChart](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_4_15)
+* 7/01/15 - [Palindromic](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_1_15)
+* 7/02/15 - [Namegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_2_15)
+* 7/03/15 - [Dicegame](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_3_15)
+* 7/04/15 - [BoxChart](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_2/7_4_15)
 
 ###C week:
-* 7/5/15 - [Sportspoints](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_5_15)
-* 7/6/15 - [Balance](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_6_15)
-* 7/7/15 - [IntHarmony](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_7_15)
-* 7/8/15 - [Bioinformatics](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_8_15)
-* 7/9/15 - [Simple Square](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_9_15)
+* 7/05/15 - [Sportspoints](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_5_15)
+* 7/06/15 - [Balance](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_6_15)
+* 7/07/15 - [IntHarmony](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_7_15)
+* 7/08/15 - [Bioinformatics](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_8_15)
+* 7/09/15 - [Simple Square](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_9_15)
 * 7/10/15 - [Tree](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_10_15)
 * 7/11/15 - [Torn Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_3/7_11_15)
 
@@ -34,7 +34,7 @@
 * 7/14/15 - [Repulsion Force](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_14_15)
 * 7/15/15 - [Space Probe](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_15_15)
 * 7/16/15 - [Eel of Fortune](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_16_15)
-* 7/17/15 - [Eel of Fortune](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_17_15)
+* 7/17/15 - [Loopbot](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_17_15)
 * 7/18/15 - [Largest Word](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_4/7_18_15)
 
 ###Java week:
@@ -52,4 +52,5 @@
 * 7/28/15 - [Secret Message](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_28_15)
 * 7/29/15 - [Bogo Sort](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_29_15)
 * 7/30/15 - [Minesweeper](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_30_15)
-* 7/31/15 - [Minesweeper](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_31_15)
+* 7/31/15 - [Recursive Song](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/7_31_15)
+* 8/01/15 - [Probability Graph](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_6/8_1_15)
