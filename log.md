@@ -58,3 +58,4 @@
 ###Ruby Week:
 * 8/02/15 - [Adding Fractions](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_2_15)
 * 8/03/15 - [Disemvoweler](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_3_15)
+* 8/04/15 - [Removing Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_4_15)
