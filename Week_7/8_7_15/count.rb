@@ -1,5 +1,5 @@
 =begin
- piglatin.rb
+ count.rb
  Created for: https://www.reddit.com/r/ProgrammingPrompts/comments/2sehb0/easy_letter_counter/
  Author: Trevor Salom
 =end
