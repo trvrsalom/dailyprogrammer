@@ -61,3 +61,4 @@
 * 8/04/15 - [Removing Numbers](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_4_15)
 * 8/05/15 - [Fake Grades](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_5_15)
 * 8/06/15 - [Pig Latin](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_6_15)
+* 8/07/15 - [Letter Counter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_7_15)
