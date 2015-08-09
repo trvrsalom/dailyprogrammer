@@ -63,3 +63,6 @@
 * 8/06/15 - [Pig Latin](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_6_15)
 * 8/07/15 - [Letter Counter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_7_15)
 * 8/08/15 - [Triangle Sticks](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_7/8_8_15)
+
+###Perl Week:
+* 8/09/15 - [Reverser](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_9_15)
