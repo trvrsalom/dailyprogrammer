@@ -72,10 +72,6 @@ for my $i (0..$gamecount){
   @weights[$m]++;
   print "\n-------------------------------\n";
 }
-for my $o (@weights) {
-  print "$o ";
-}
-print "\n";
 $gamecount++;
 $wp = ($wins/$gamecount)*100.0;
 $tp = ($ties/$gamecount)*100.0;
