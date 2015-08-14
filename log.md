@@ -69,3 +69,4 @@
 * 8/10/15 - [Acronym Generator](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_10_15)
 * 8/11/15 - [Rock Paper Scissors](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_11_15)
 * 8/12/15 - [Rock Paper Scissors AI](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_12_15)
+* 8/13/15 - [Fallout Hacking](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_13_15)
