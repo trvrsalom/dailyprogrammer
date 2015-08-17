@@ -74,4 +74,5 @@
 * 8/15/15 - [Alphametics](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_15_15)
 
 ###Applescript Week:
-* 8/16/15 - [alphabeticalwords](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_16_15)
+* 8/16/15 - [Alphabetical Words](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_16_15)
+* 8/17/15 - [Currency Converter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_17_15)
