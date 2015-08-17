@@ -72,3 +72,6 @@
 * 8/13/15 - [Fallout Hacking](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_13_15)
 * 8/14/15 - [N Character Set Strings](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_14_15)
 * 8/15/15 - [Alphametics](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_8/8_15_15)
+
+###Applescript Week:
+* 8/16/15 - [alphabeticalwords](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_16_15)
