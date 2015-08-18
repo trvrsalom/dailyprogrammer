@@ -76,3 +76,6 @@
 ###Applescript Week:
 * 8/16/15 - [Alphabetical Words](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_16_15)
 * 8/17/15 - [Currency Converter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_17_15)
+* 8/18/15 - [BTC Converter](https://github.com/trvrsalom/dailyprogrammer/tree/master/Week_9/8_18_15)
+------
+####Well, it's been a fun 60 days, but I will be stopping here because of school and other projects.
